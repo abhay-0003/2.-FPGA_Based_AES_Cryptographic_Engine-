@@ -27,4 +27,8 @@ and decrypt data in blocks of 128 bits
 
 ![Block Diagram](./Block-diagram-for-AES-encryption-and-decryption.png)
 
+## Outputs
+![Encryption](./encryption.png)
+![Decryption](./decryption.png)
+
 
