@@ -23,7 +23,8 @@ The AES algorithm is capable of using cryptographic keys of 128, 192, and 256 bi
 and decrypt data in blocks of 128 bits
 
 ## Block Diagram
-(./encryption_block_diagram.png)
-(./Block-diagram-for-AES-encryption-and-decryption.png)
+![Encryption](./encryption_block_diagram.png)
+
+![Block Diagram](./Block-diagram-for-AES-encryption-and-decryption.png)
 
 
